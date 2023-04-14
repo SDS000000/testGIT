@@ -1,1 +1,3 @@
 Текст для GIT
+
+Drugoy text
